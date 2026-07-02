@@ -15,4 +15,4 @@
 - 🎓 Student Result Management System
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/arjun-das-a1723841a
+- LinkedIn: https://www.linkedin.com/in/arjun-das-a1723841a 
