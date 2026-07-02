@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Arjun Das
 
-<!--
-**ArjunDas23/ArjunDas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Java Developer**  
+🎓 BCA Student  
+📍 Kolkata, West Bengal, India  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Core Java
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🏦 Banking System
+- 🎓 Student Result Management System
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/arjun-das-a1723841a
