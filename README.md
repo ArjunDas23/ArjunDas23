@@ -11,8 +11,9 @@
 - Git & GitHub
 
 ## 🚀 Projects
-- 🏦 Banking System
-- 🎓 Student Result Management System
+- Banking System
+- Student Result Management System
+- Quiz Application
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/arjun-das-a1723841a 
